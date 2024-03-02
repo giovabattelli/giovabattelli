@@ -1,1 +1,1 @@
-[linke](https://www.linkedin.com/in/giovanni-assad/)linkedin
+[LinkedIn](https://www.linkedin.com/in/giovanni-assad/)
