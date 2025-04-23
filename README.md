@@ -3,4 +3,4 @@
 [My website ↗](https://giovabattelli.com)
 
 - Currently I am mainly working in private repositories.
-- I care about my work--*a lot*. Please [reach out](giovabattelli@gmail.com) with feedback.
+- I care about my work--*a lot*. Please [reach out](mailto:giovabattelli@gmail.com) with feedback.
