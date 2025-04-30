@@ -1,5 +1,5 @@
 [LinkedIn ↗](https://www.linkedin.com/in/giovanni-assad/) /
-[Twitter ↗](https://x.com/giovabattelli) /
+[X ↗](https://x.com/giovabattelli) /
 [My website ↗](https://giovabattelli.com)
 
 - Currently I am mainly working in private repositories.
