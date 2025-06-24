@@ -2,5 +2,5 @@
 [LinkedIn ↗](https://www.linkedin.com/in/giovanni-assad/) /
 [X ↗](https://x.com/giovabattelli)
 
-- I am mainly working in private repositories right now.
+- I am mainly working in private repositories right now. (Opero Labs)
 - I care about my work--*a lot*. Feel free to [reach out](mailto:giovabattelli@gmail.com) with feedback.
