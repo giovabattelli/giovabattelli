@@ -2,4 +2,4 @@
 [LinkedIn ↗](https://www.linkedin.com/in/giovanni-assad/) /
 [X ↗](https://x.com/giovabattelli)
 
-- I care about my work--*a lot*. Feel free to [reach out](mailto:giovabattelli@gmail.com) with feedback.
+- I care a lot about my work. Feel free to [reach out](mailto:giovabattelli@gmail.com) with feedback.
